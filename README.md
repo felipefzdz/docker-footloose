@@ -7,7 +7,7 @@ Containerized Footloose
   
 ## What is `footloose`
 
-[`footloose`](https://github.com/weaveworks/footloose) is a CLI tool that creates containers that look like virtual machines
+[`footloose`](https://github.com/weaveworks/footloose) is a CLI tool that creates containers that look like virtual machines.
 
 ## Usage
 
